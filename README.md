@@ -1,6 +1,6 @@
 # Movie Recommender System + Twitter Sentiment Analysis
 
-![](https://d1sjtleuqoc1be.cloudfront.net/wp-content/uploads/2019/04/25112909/shutterstock_1073953772.jpg)
+![](https://www.kdnuggets.com/wp-content/uploads/ambalina-sentiment-analysis-header.jpg)
 
 ## Description :newspaper:
 
