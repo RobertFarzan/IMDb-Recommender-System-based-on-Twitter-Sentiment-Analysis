@@ -1,5 +1,7 @@
 # Movie Recommender System + Twitter Sentiment Analysis
 
+![](https://d1sjtleuqoc1be.cloudfront.net/wp-content/uploads/2019/04/25112909/shutterstock_1073953772.jpg)
+
 ## Description :newspaper:
 
 This project focuses on __NLP and Machine Learning techniques__ to make a highly accurate Sentiment Analysis model, which will help us make predictions upon Twitter users opinion of a movie to recommend them similar movies (with Content Based Filtering).
