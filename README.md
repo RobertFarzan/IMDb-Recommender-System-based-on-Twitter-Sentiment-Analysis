@@ -20,7 +20,11 @@ Now that we've got the credentials to use _tweepy_, we just have to follow these
 
 #### 1. Open the [Recommender_System.ipynb](https://github.com/RobertFarzan/IMDb-Recommender-System-based-on-Twitter-Sentiment-Analysis/tree/main/Recommender_System.ipynb) notebook on your preferred environment (e.g. _Jupyter Notebook, Google Colab..._)
   > :rotating_light: **Before making any changes you may have to run each cell in the notebook, otherwise you'll get a ton of errors. To do this, just press** <kbd>Shift</kbd>+<kbd>Enter</kbd> **on each cell before the one you are going to change. When you make the changes, follow the same advice.**
-#### 2. Substitute the authentication keys with your credentials.** Change the sample strings _consumer_key, consumer_secret, access_token and access_token_secret_ shown in the image with the keys you just got.
+#### 2. Substitute the authentication keys with your credentials. Change the sample strings _consumer_key, consumer_secret, access_token and access_token_secret_ shown in the image with the keys you just got (and then run the cell).
 
+  ![step2](https://user-images.githubusercontent.com/44211717/125357437-f1a21500-e367-11eb-9845-ea5c08355da3.png)
+#### 3. Having done that, you just have to change the user ID (in the variable _username_) with the Twitter user ID (the name after the @) you want your recommendations to come from, as shown in the image:
 
-
+  ![step3](https://user-images.githubusercontent.com/44211717/125357897-860c7780-e368-11eb-9285-12aea73494da.png)
+  
+Finally, if you run all the cells after these steps, you'll get your recommendations at the end of the notebook. Congratulations, you've done it! :fireworks:
